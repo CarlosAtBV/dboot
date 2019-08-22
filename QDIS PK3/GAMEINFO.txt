@@ -1,2 +1,2 @@
 STARTUPTITLE = "Blue Vertigo Presents: Quiet Distress (v0.1)"
-STARTUPCOLORS = "aad13d", "0a7358"
+STARTUPCOLORS = "f6f08b", "956417"
