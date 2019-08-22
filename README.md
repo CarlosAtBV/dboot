@@ -1,3 +1,3 @@
 # DBOOT
  
-A survival horror gameplay modification by Blue Vertigo
+A survival horror gameplay modification for Doom by Blue Vertigo
